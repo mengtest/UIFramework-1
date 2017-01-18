@@ -25,7 +25,8 @@ public class UIModel : ISerializationCallbackReceiver
         Type = (UIType)Enum.Parse(typeof(UIType), PanelType);
     }
 }
-----------
+```
+```
     [Serializable]
     class UIJson
     {
