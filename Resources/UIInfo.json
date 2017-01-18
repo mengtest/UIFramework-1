@@ -1,0 +1,36 @@
+{
+  "ModelList": [
+    {
+      "PanelType": "Main",
+      "Path": "UIPanel/MainPanel"
+    },
+    {
+      "PanelType": "Task",
+      "Path": "UIPanel/TaskPanel"
+    },
+    {
+      "PanelType": "Shop",
+      "Path": "UIPanel/ShopPanel"
+    },
+    {
+      "PanelType": "Battle",
+      "Path": "UIPanel/BattlePanel"
+    },
+    {
+      "PanelType": "Skill",
+      "Path": "UIPanel/SkillPanel"
+    },
+    {
+      "PanelType": "System",
+      "Path": "UIPanel/SystemPanel"
+    },
+    {
+      "PanelType": "Knapsack",
+      "Path": "UIPanel/KnapsackPanel"
+    },
+    {
+      "PanelType": "Tips",
+      "Path": "UIPanel/TipsPanel"
+    }
+  ]
+}
