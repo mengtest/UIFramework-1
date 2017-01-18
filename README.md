@@ -5,6 +5,7 @@
 ## 解析JSON
 > * `序列化` 对象 -> 文本信息（JSON、XML等）
 > * `反序列化` 文本信息（JSON、XML等） -> 对象
+
 ```
 [Serializable]
 public class UIModel : ISerializationCallbackReceiver
